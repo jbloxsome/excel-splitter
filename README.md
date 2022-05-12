@@ -17,5 +17,5 @@ A small Python script for splitting large Excel files into smaller chunks.
 
 ### Example
 ```
-python main.py --src-file ./spreadsheet.xlsx --dst-dir ./outputs --num-chunks 100 --sheet-name 'Web Products - for the OW impor'
+python main.py --src-file ./spreadsheet.xlsx --dst-dir ./outputs --num-chunks 160 --sheet-name 'Web Products - for the OW impor'
 ```
